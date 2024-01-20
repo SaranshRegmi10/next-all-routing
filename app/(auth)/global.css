@@ -1,0 +1,6 @@
+div{
+    background-color: aqua;
+}
+div:active{
+    background-color: yellow;
+ }
